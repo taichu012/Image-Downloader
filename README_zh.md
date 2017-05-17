@@ -2,8 +2,8 @@
 
 ## 1. 简介
 
-+ 从图片搜索引擎，爬取关键字搜索的原图URL并下载
-+ 开发语言python，采用Requests、Selenium、Phantomjs等库进行开发
++ 从图片搜索引擎，爬取关键字搜索的原图URL并下载。
++ 开发语言python，采用Requests、Selenium、Phantomjs等库进行开发。
 
 ## 2. 功能
 + 支持的搜索引擎: Google, 必应, 百度
